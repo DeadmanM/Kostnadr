@@ -1,2 +1,2 @@
 # Kostnadr
-Budget app
+Easy to use budget app fo students
